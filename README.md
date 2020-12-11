@@ -36,7 +36,7 @@ It shows the user a dropdown to select the destination,source cities then it sho
     
     ###########################################################################
     
-   file **** stores ither details of the booking :</br>
+   file **dbo.booking.sql** stores ither details of the booking :</br>
     [bookingid]   INT          IDENTITY (1, 1) NOT NULL</br>
     [triptype]    INT          NOT NULL</br>
     [source]      VARCHAR (50) NOT NULL</br>
